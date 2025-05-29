@@ -35,3 +35,10 @@ body {
 #holder p{
     margin: 5px;
 }
+
+@media (max-width: 375px) {
+    #holder {
+        width: 90%;
+        margin: 10px;
+    }
+}
